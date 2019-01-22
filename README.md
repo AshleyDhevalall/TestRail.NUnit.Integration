@@ -4,3 +4,5 @@ The goal of this project is to provide automation capabilities to functional tes
 This project enables you to add the results of tests executed in NUnit to TestRail. 
 
 Please see [Wiki](https://github.com/AshleyDhevalall/TestRail.NUnit.Integration/wiki) for further details.
+
+Ashley Dhevalall
