@@ -58,8 +58,6 @@ public void GoogleTest()
 * A new test run will be created using the format (Test run - yyyy-MM-dd HH:mm)
 * The results were updated by executing the NUnit tests.
 
-Please see [Wiki](https://github.com/AshleyDhevalall/TestRail.NUnit.Integration/wiki) for further details.
-
 ## License
 
 MIT License
