@@ -58,6 +58,15 @@ public void GoogleTest()
 * A new test run will be created using the format (Test run - yyyy-MM-dd HH:mm)
 * The results were updated by executing the NUnit tests.
 
+## Authors
+
+[Ashley Dhevalall](https://github.com/AshleyDhevalall)
+
+## Acknowledgements
+
+* [NUnit](<http://nunit.org>)
+* [testrail-api](<https://github.com/gurock/testrail-api>)
+
 ## License
 
 MIT License
@@ -81,12 +90,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Authors
-
-[Ashley Dhevalall](https://github.com/AshleyDhevalall)
-
-## Acknowledgements
-
-* [NUnit](<http://nunit.org>)
-* [testrail-api](<https://github.com/gurock/testrail-api>)
