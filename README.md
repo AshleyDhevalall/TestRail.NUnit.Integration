@@ -9,10 +9,12 @@ Please see [Wiki](https://github.com/AshleyDhevalall/TestRail.NUnit.Integration/
 
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details
 
+## Authors
+
+[Ashley Dhevalall](https://github.com/AshleyDhevalall)
+
 ## Acknowledgments
 
 * Charlie Poole
-* Inspiration
-* etc
 
 Ashley Dhevalall
