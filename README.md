@@ -5,4 +5,14 @@ This project enables you to add the results of tests executed in NUnit to TestRa
 
 Please see [Wiki](https://github.com/AshleyDhevalall/TestRail.NUnit.Integration/wiki) for further details.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details
+
+## Acknowledgments
+
+* Charlie Poole
+* Inspiration
+* etc
+
 Ashley Dhevalall
