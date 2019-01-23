@@ -13,8 +13,7 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 
 [Ashley Dhevalall](https://github.com/AshleyDhevalall)
 
-## Acknowledgments
+## Acknowledgements
 
-* Charlie Poole
-
-Ashley Dhevalall
+* [NUnit](<http://nunit.org>)
+* [testrail-api](<https://github.com/gurock/testrail-api>)
