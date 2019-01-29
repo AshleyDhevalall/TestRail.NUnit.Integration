@@ -71,7 +71,8 @@ Troubleshooting
 ## Acknowledgements
 
 * [NUnit](<http://nunit.org>)
-* [testrail-api](<https://github.com/gurock/testrail-api>)
+* [Testrail Api](<https://github.com/gurock/testrail-api>)
+* [Selenium](<https://www.seleniumhq.org/>)
 
 ## License
 
