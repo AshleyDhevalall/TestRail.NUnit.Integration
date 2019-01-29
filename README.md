@@ -3,9 +3,9 @@
 The goal of this project is to provide automation capabilities to functional testing using NUnit as the testing framework. This project enables you to add the results of tests executed in NUnit to TestRail. If you aren't using TestRail as your Test Case Management tool, this article will not be beneficial.
 
 ### Prerequisites
-* TestRail Server (On-premises) 
-* Visual Studio 2017  
-* NUnit Framework 2.6.x and above
+* TestRail Server (On-premises / Cloud) 
+* Visual Studio 2015 and above  
+* NUnit Framework 3.7.1 >
 * TestRail account to access the [TestRail API](http://docs.gurock.com/testrail-api2/start) for updating of test case results. 
 
 ### Assumptions
@@ -57,6 +57,16 @@ public void GoogleTest()
 * Open the project in TestRail and view the test runs. 
 * A new test run will be created using the format (Test run - yyyy-MM-dd HH:mm)
 * The results were updated by executing the NUnit tests.
+
+## Getting the Source
+
+[Ashley Dhevalall](https://github.com/AshleyDhevalall)
+
+This project is [hosted on GitHub](https://github.com/AshleyDhevalall/TestRail.NUnit.Integration). You can clone this project directly using this command:
+
+```
+git clone https://github.com/AshleyDhevalall/TestRail.NUnit.Integration.git
+```
 
 ## Authors
 
