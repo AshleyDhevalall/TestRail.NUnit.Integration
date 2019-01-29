@@ -72,7 +72,9 @@ Troubleshooting
 
 * [NUnit](<http://nunit.org>)
 * [Testrail Api](<https://github.com/gurock/testrail-api>)
-* [Selenium](<https://www.seleniumhq.org/>)
+* [Selenium HQ](<https://www.seleniumhq.org/>)
+* [Selenium](<https://github.com/SeleniumHQ/selenium/>)
+
 
 ## License
 
