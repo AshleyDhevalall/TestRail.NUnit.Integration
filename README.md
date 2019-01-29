@@ -8,12 +8,6 @@ The goal of this project is to provide automation capabilities to functional tes
 * NUnit Framework 2.6.x and above
 * TestRail account to access the [TestRail API](http://docs.gurock.com/testrail-api2/start) for updating of test case results. 
 
-### Nuget Package
-[TestRail Service](<https://www.nuget.org/packages/TestRail.Service/>)
-```
-PM> Install-Package TestRail.Service -Version 1.0.0
-```
-
 ### Assumptions
 Each test class should map to a TestRail project and test suite.  
 
@@ -64,12 +58,6 @@ public void GoogleTest()
 * A new test run will be created using the format (Test run - yyyy-MM-dd HH:mm)
 * The results were updated by executing the NUnit tests.
 
-Incomplete
-* Need to validate TestRail project id and suite id exist before adding results.
-
-Troubleshooting
-* View debug window for details.
-
 ## Authors
 
 [Ashley Dhevalall](https://github.com/AshleyDhevalall)
@@ -77,10 +65,7 @@ Troubleshooting
 ## Acknowledgements
 
 * [NUnit](<http://nunit.org>)
-* [Testrail Api](<https://github.com/gurock/testrail-api>)
-* [Selenium HQ](<https://www.seleniumhq.org/>)
-* [Selenium](<https://github.com/SeleniumHQ/selenium/>)
-
+* [testrail-api](<https://github.com/gurock/testrail-api>)
 
 ## License
 

@@ -90,5 +90,8 @@ public class TestBase
 
         if (!Int32.TryParse(_projectid, out _projectIdInt)) throw new Exception("Project id not valid int");
         if (!Int32.TryParse(_suiteid, out _suiteIdInt)) throw new Exception("Suite id not valid int");
+
+        // we should add validation for project and suite id
+
     }
 }

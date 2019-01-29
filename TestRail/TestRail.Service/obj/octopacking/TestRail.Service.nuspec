@@ -1,0 +1,27 @@
+<package>
+  <metadata>
+    <id>TestRail.Service</id>
+    <version>1.0.0.0</version>
+    <authors>Ash-PC</authors>
+    <owners>Ash-PC</owners>
+    <tags>OctopusDeploy</tags>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The TestRail.Service deployment package, built on 2019/01/29</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="C:\Projects\TestRail.NUnit.Integration\TestRail\TestRail.Service\obj\Release\TestRail.Service.csproj.CopyComplete" target="obj\Release\TestRail.Service.csproj.CopyComplete" />
+    <file src="C:\Projects\TestRail.NUnit.Integration\TestRail\TestRail.Service\bin\Release\TestRail.Service.dll" target="TestRail.Service.dll" />
+    <file src="C:\Projects\TestRail.NUnit.Integration\TestRail\TestRail.Service\bin\Release\nunit.framework.dll" target="nunit.framework.dll" />
+    <file src="C:\Projects\TestRail.NUnit.Integration\TestRail\TestRail.Service\bin\Release\TestRail.Service.Base.dll" target="TestRail.Service.Base.dll" />
+    <file src="C:\Projects\TestRail.NUnit.Integration\TestRail\TestRail.Service\bin\Release\WebDriver.dll" target="WebDriver.dll" />
+    <file src="C:\Projects\TestRail.NUnit.Integration\TestRail\TestRail.Service\bin\Release\Gurock.TestRail.dll" target="Gurock.TestRail.dll" />
+    <file src="C:\Projects\TestRail.NUnit.Integration\TestRail\TestRail.Service\bin\Release\Newtonsoft.Json.dll" target="Newtonsoft.Json.dll" />
+    <file src="C:\Projects\TestRail.NUnit.Integration\TestRail\TestRail.Service\bin\Release\nunit.framework.xml" target="nunit.framework.xml" />
+    <file src="C:\Projects\TestRail.NUnit.Integration\TestRail\TestRail.Service\bin\Release\WebDriver.xml" target="WebDriver.xml" />
+    <file src="C:\Projects\TestRail.NUnit.Integration\TestRail\TestRail.Service\bin\Release\Newtonsoft.Json.pdb" target="Newtonsoft.Json.pdb" />
+    <file src="C:\Projects\TestRail.NUnit.Integration\TestRail\TestRail.Service\bin\Release\Newtonsoft.Json.xml" target="Newtonsoft.Json.xml" />
+  </files>
+</package>

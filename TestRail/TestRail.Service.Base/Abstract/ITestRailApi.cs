@@ -6,6 +6,6 @@ namespace TestRail.Service.Base.Abstract
     public interface ITestRailApi
     {
         int CreateRun(Run run);
-       bool AddResultsForCases(int runId, List<Result> results);
+        void AddResultsForCases(int runId, List<Result> results);
     }
 }

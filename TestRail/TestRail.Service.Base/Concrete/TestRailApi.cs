@@ -49,7 +49,7 @@ namespace TestRail.Service.Base.Concrete
             }
         }
 
-        public bool AddResultsForCases(int runId, List<Result> results)
+        public void AddResultsForCases(int runId, List<Result> results)
         {
             var result = false;
             var caseIds = results.Select(x => x.case_id).ToList();
@@ -68,10 +68,9 @@ namespace TestRail.Service.Base.Concrete
                 catch
                 {
                     //output result to nunit output here
+                    Console.WriteLine("Failed to add results to TestRail");
                 }
             }
-
-            return result;
         }
 
         private bool UpdateTestRun(int runId, List<int> ids)

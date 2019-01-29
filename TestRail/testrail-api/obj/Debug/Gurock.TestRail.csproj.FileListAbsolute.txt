@@ -1,0 +1,9 @@
+C:\Projects\TestRail.NUnit.Integration\TestRail\testrail-api\bin\Debug\Gurock.TestRail.dll
+C:\Projects\TestRail.NUnit.Integration\TestRail\testrail-api\bin\Debug\Gurock.TestRail.pdb
+C:\Projects\TestRail.NUnit.Integration\TestRail\testrail-api\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\TestRail.NUnit.Integration\TestRail\testrail-api\bin\Debug\Newtonsoft.Json.pdb
+C:\Projects\TestRail.NUnit.Integration\TestRail\testrail-api\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\TestRail.NUnit.Integration\TestRail\testrail-api\obj\Debug\Gurock.TestRail.csproj.CoreCompileInputs.cache
+C:\Projects\TestRail.NUnit.Integration\TestRail\testrail-api\obj\Debug\Gurock.TestRail.csproj.CopyComplete
+C:\Projects\TestRail.NUnit.Integration\TestRail\testrail-api\obj\Debug\Gurock.TestRail.dll
+C:\Projects\TestRail.NUnit.Integration\TestRail\testrail-api\obj\Debug\Gurock.TestRail.pdb

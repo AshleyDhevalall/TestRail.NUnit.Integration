@@ -1,0 +1,9 @@
+C:\Projects\TestRail.NUnit.Integration\TestRail\TestRail.Service.Base\obj\Release\TestRail.Service.Base.csprojAssemblyReference.cache
+C:\Projects\TestRail.NUnit.Integration\TestRail\TestRail.Service.Base\obj\Release\TestRail.Service.Base.csproj.CoreCompileInputs.cache
+C:\Projects\TestRail.NUnit.Integration\TestRail\TestRail.Service.Base\bin\Release\TestRail.Service.Base.dll
+C:\Projects\TestRail.NUnit.Integration\TestRail\TestRail.Service.Base\bin\Release\Gurock.TestRail.dll
+C:\Projects\TestRail.NUnit.Integration\TestRail\TestRail.Service.Base\bin\Release\Newtonsoft.Json.dll
+C:\Projects\TestRail.NUnit.Integration\TestRail\TestRail.Service.Base\bin\Release\Newtonsoft.Json.pdb
+C:\Projects\TestRail.NUnit.Integration\TestRail\TestRail.Service.Base\bin\Release\Newtonsoft.Json.xml
+C:\Projects\TestRail.NUnit.Integration\TestRail\TestRail.Service.Base\obj\Release\TestRail.Service.Base.csproj.CopyComplete
+C:\Projects\TestRail.NUnit.Integration\TestRail\TestRail.Service.Base\obj\Release\TestRail.Service.Base.dll

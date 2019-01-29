@@ -1,0 +1,16 @@
+C:\Projects\TestRail.NUnit.Integration\Sample\obj\Release\TestRail.NUnit.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\TestRail.NUnit.Integration\Sample\bin\Release\TestRail.NUnit.Tests.dll.config
+C:\Projects\TestRail.NUnit.Integration\Sample\bin\Release\TestRail.NUnit.Tests.dll
+C:\Projects\TestRail.NUnit.Integration\Sample\bin\Release\nunit.framework.dll
+C:\Projects\TestRail.NUnit.Integration\Sample\bin\Release\TestRail.Service.dll
+C:\Projects\TestRail.NUnit.Integration\Sample\bin\Release\WebDriver.dll
+C:\Projects\TestRail.NUnit.Integration\Sample\bin\Release\TestRail.Service.Base.dll
+C:\Projects\TestRail.NUnit.Integration\Sample\bin\Release\Gurock.TestRail.dll
+C:\Projects\TestRail.NUnit.Integration\Sample\bin\Release\Newtonsoft.Json.dll
+C:\Projects\TestRail.NUnit.Integration\Sample\bin\Release\nunit.framework.xml
+C:\Projects\TestRail.NUnit.Integration\Sample\bin\Release\WebDriver.xml
+C:\Projects\TestRail.NUnit.Integration\Sample\bin\Release\Newtonsoft.Json.pdb
+C:\Projects\TestRail.NUnit.Integration\Sample\bin\Release\Newtonsoft.Json.xml
+C:\Projects\TestRail.NUnit.Integration\Sample\obj\Release\TestRail.NUnit.Tests.csprojAssemblyReference.cache
+C:\Projects\TestRail.NUnit.Integration\Sample\obj\Release\TestRail.NUnit.Tests.csproj.CopyComplete
+C:\Projects\TestRail.NUnit.Integration\Sample\obj\Release\TestRail.NUnit.Tests.dll
