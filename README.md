@@ -10,6 +10,9 @@ The goal of this project is to provide automation capabilities to functional tes
 
 ### Nuget Package
 [TestRail Service](https://www.nuget.org/packages/TestRail.Service/>)
+```
+PM> Install-Package TestRail.Service -Version 1.0.0
+```
 
 ### Assumptions
 Each test class should map to a TestRail project and test suite.  
