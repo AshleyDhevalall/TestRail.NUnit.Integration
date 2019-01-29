@@ -8,6 +8,9 @@ The goal of this project is to provide automation capabilities to functional tes
 * NUnit Framework 2.6.x and above
 * TestRail account to access the [TestRail API](http://docs.gurock.com/testrail-api2/start) for updating of test case results. 
 
+### Nuget Package
+[TestRail Service](https://www.nuget.org/packages/TestRail.Service/>)
+
 ### Assumptions
 Each test class should map to a TestRail project and test suite.  
 
