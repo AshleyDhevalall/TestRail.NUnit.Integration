@@ -9,7 +9,7 @@ The goal of this project is to provide automation capabilities to functional tes
 * TestRail account to access the [TestRail API](http://docs.gurock.com/testrail-api2/start) for updating of test case results. 
 
 ### Nuget Package
-[TestRail Service](https://www.nuget.org/packages/TestRail.Service/>)
+[TestRail Service](<https://www.nuget.org/packages/TestRail.Service/>)
 ```
 PM> Install-Package TestRail.Service -Version 1.0.0
 ```
