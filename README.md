@@ -58,6 +58,12 @@ public void GoogleTest()
 * A new test run will be created using the format (Test run - yyyy-MM-dd HH:mm)
 * The results were updated by executing the NUnit tests.
 
+Incomplete
+* Need to validate TestRail project id and suite id exist before adding results.
+
+Troubleshooting
+* View debug window for details.
+
 ## Authors
 
 [Ashley Dhevalall](https://github.com/AshleyDhevalall)
