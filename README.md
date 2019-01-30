@@ -70,7 +70,7 @@ git clone https://github.com/AshleyDhevalall/TestRail.NUnit.Integration.git
 
 ## Troubleshooting
 
- * No test run created in TestRail?  
+### No test run created in TestRail?  
  
    - Check if the TestRail server details have been added to the app.config
    - Verify that the TestRail server details are correct.
