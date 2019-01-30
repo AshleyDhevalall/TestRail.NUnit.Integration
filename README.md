@@ -60,8 +60,6 @@ public void GoogleTest()
 
 ## Getting the Source
 
-[Ashley Dhevalall](https://github.com/AshleyDhevalall)
-
 This project is [hosted on GitHub](https://github.com/AshleyDhevalall/TestRail.NUnit.Integration). You can clone this project directly using this command:
 
 ```
