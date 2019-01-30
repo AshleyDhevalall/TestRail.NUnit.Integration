@@ -86,7 +86,7 @@ To submit bug reports and feature suggestions, or to track changes:
 ## Acknowledgements
 
 * [NUnit](<http://nunit.org>)
-* [testrail-api](<https://github.com/gurock/testrail-api>)
+* [Testrail Api](<https://github.com/gurock/testrail-api>)
 
 ## License
 
