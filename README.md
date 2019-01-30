@@ -4,7 +4,7 @@ The goal of this project is to provide automation capabilities to functional tes
 
 ### Prerequisites
 * TestRail Server (On-premises / Cloud) 
-* Visual Studio 2015 and above  
+* Visual Studio 2015 >
 * NUnit Framework 3.7.1 >
 * TestRail account to access the [TestRail API](http://docs.gurock.com/testrail-api2/start) for updating of test case results. 
 
