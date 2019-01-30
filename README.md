@@ -67,8 +67,17 @@ This project is [hosted on GitHub](https://github.com/AshleyDhevalall/TestRail.N
 ```
 git clone https://github.com/AshleyDhevalall/TestRail.NUnit.Integration.git
 ```
-  
-* To submit bug reports and feature suggestions, or to track changes:
+
+## Troubleshooting
+
+ * No test run created in TestRail?
+   - Check if the TestRail server details have been added to the app.config
+   - Verify that the TestRail server details are correct.
+   - Verify that the project id exists in TestRail and that you have access to the project.
+   - Verify that the suite id exists in TestRail under the given project.
+   - Verify that the case id's provided on each NUnit test exists under the given suite id.
+   
+To submit bug reports and feature suggestions, or to track changes:
   https://github.com/AshleyDhevalall/TestRail.NUnit.Integration/issues
 
 ## Authors
