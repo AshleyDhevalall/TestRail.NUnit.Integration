@@ -67,7 +67,7 @@ This project is [hosted on GitHub](https://github.com/AshleyDhevalall/TestRail.N
 ```
 git clone https://github.com/AshleyDhevalall/TestRail.NUnit.Integration.git
 ```
-
+  
 * To submit bug reports and feature suggestions, or to track changes:
   https://github.com/AshleyDhevalall/TestRail.NUnit.Integration/issues
 
