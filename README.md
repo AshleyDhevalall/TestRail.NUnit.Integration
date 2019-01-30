@@ -12,7 +12,7 @@ The goal of this project is to provide automation capabilities to functional tes
 Each test class should map to a TestRail project and test suite.  
 
 ### Usage
-* Update the TestRail server details in the app.config file.  
+* Include the TestRail server details in the app.config file.  
 ```
  <appSettings>
     <add key="testrailurl" value="testrail url" />
@@ -67,6 +67,9 @@ This project is [hosted on GitHub](https://github.com/AshleyDhevalall/TestRail.N
 ```
 git clone https://github.com/AshleyDhevalall/TestRail.NUnit.Integration.git
 ```
+
+* To submit bug reports and feature suggestions, or to track changes:
+  https://github.com/AshleyDhevalall/TestRail.NUnit.Integration/issues
 
 ## Authors
 
