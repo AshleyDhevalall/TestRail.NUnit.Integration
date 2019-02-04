@@ -73,7 +73,7 @@ git clone https://github.com/AshleyDhevalall/TestRail.NUnit.Integration.git
 
 ## Troubleshooting
 
-### No test run is created in TestRail after executing NUnit tests?  
+#### No test run is created in TestRail after executing NUnit tests?  
  
    - Check if the TestRail server details have been added to the app.config
    - Verify that the TestRail server details are correct.
@@ -81,7 +81,7 @@ git clone https://github.com/AshleyDhevalall/TestRail.NUnit.Integration.git
    - Verify that the suite id exists in TestRail under the given project.
    - Verify that the case id's provided on each NUnit test exists under the given suite id.
    
-### Properties empty when using parameterized test in NUnit
+#### Properties empty when using parameterized test in NUnit
    - Please see https://stackoverflow.com/questions/47434571/nunit-test-properties-not-accessible-in-parametrized-tests
    
 #### To submit bug reports and feature suggestions, or to track changes:
