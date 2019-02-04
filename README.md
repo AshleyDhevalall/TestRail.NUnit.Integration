@@ -88,6 +88,9 @@ git clone https://github.com/AshleyDhevalall/TestRail.NUnit.Integration.git
 To submit bug reports and feature suggestions, or to track changes:
   https://github.com/AshleyDhevalall/TestRail.NUnit.Integration/issues
 
+### Further reading
+[Push defect from existing result](https://discuss.gurock.com/t/push-defect-from-existing-result/893)
+
 ## Authors
 
 [Ashley Dhevalall](https://github.com/AshleyDhevalall)
