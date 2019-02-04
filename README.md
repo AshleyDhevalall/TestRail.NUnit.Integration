@@ -83,9 +83,9 @@ git clone https://github.com/AshleyDhevalall/TestRail.NUnit.Integration.git
    - Verify that the case id's provided on each NUnit test exists under the given suite id.
    
 ### Properties empty when using parameterized test in NUnit
-   Please see https://stackoverflow.com/questions/47434571/nunit-test-properties-not-accessible-in-parametrized-tests
+   - Please see https://stackoverflow.com/questions/47434571/nunit-test-properties-not-accessible-in-parametrized-tests
    
-To submit bug reports and feature suggestions, or to track changes:
+#### To submit bug reports and feature suggestions, or to track changes:
   https://github.com/AshleyDhevalall/TestRail.NUnit.Integration/issues
 
 ### Further reading
