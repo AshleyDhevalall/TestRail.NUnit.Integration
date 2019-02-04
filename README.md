@@ -4,7 +4,6 @@ The goal of this project is to provide automation capabilities to functional tes
 
 ### Nuget package
 [TestRail.Service](https://www.nuget.org/packages/TestRail.Service/)
-
 ```
 PM> Install-Package TestRail.Service -Version 1.0.0
 ```
