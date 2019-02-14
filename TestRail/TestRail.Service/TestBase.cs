@@ -52,7 +52,8 @@ public class TestBase
     {
         if (!IgnoreAddResults)
         {
-            var caseid = TestContext.CurrentContext.Test.Properties.Get("caseid")?.ToString();
+            var _caseid = 0;
+            var caseid = TestContext.CurrentContext.Test.Properties.Get("caseid")?.ToString();            
             if (Int32.TryParse(caseid, out _caseId))
             {
                 var result = new Result { case_id = _caseId, comment = TestContext.CurrentContext.Result.Message };
